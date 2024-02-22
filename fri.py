@@ -1,1 +1,1 @@
-print("hey friend")
+print("hey alexa play kuthu songs please")
